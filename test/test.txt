@@ -1,5 +1,41 @@
+<<<<<<< HEAD
 hi 
  wanna update in text ... 
 
  this is for pull request
+=======
+my name is tripti and 
+ 
+ i wanna update
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> e61fbf3a7a3824b6163bf7349926860d8c0ead0e
 
